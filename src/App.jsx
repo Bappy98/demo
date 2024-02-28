@@ -6,7 +6,7 @@ import Footer from './component/Footer'
 
 function App() {
   return (
-    <div className='w-full'>
+    <div className=''>
       <Nav/>
       <Home/>
       <Join/>

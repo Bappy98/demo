@@ -4,7 +4,7 @@ function Home() {
   return (
     <div className='bg-zinc-800 h-screen'>
        <div className='flex justify-center items-center  flex-col'>
-       <img src={img} alt="" className='h-[500px]' />
+       <img src={img} alt="" className='h-[400px] w-[600px]' />
       <div className='text-3xl font-bold flex flex-col text-white text-center'>
       <p>Mission To 1 Billion</p>
        <p>Market Cap</p>
