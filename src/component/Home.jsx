@@ -9,7 +9,7 @@ function Home() {
       <p>Mission To 1 Billion</p>
        <p>Market Cap</p>
       </div>
-       <button className='bg-green-500 text-3xl font-bold  px-6 py-4 border-black border-8 mt-[100px]'>Buy $FAN</button>
+       <button className='bg-green-500 text-3xl font-bold  px-6 py-4 border-black border-8 mt-[70px]'>Buy $FAN</button>
        </div>
     </div>
   )
