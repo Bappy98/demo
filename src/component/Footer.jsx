@@ -3,7 +3,7 @@ import { FaFacebook, FaTwitter } from "react-icons/fa";
 import { FaSquareInstagram } from "react-icons/fa6";
 function Footer() {
   return (
-    <div className='md:h-[40vh] h-[20vh]'>
+    <div className='md:h-[40vh] h-[20vh] lg:h-[20vh]'>
      
         <div className='md:text-5xl text-2xl font-bold flex justify-center md:mt-[150px] md:block mt-[100px] md:ml-32 '>
           icon
