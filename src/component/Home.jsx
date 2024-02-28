@@ -4,7 +4,7 @@ function Home() {
   return (
     <div className='bg-zinc-800 h-screen'>
        <div className='flex justify-center items-center  flex-col'>
-       <img src={img} alt="" className='md:h-[400px] md:w-[600px] h-[200px] w-[200px]  sm:h-[350px] sm:w-[400px] md:mt-[50px]  mt-[200px] lg:mt-[200px] ' />
+       <img src={img} alt="" className='md:h-[400px] md:w-[600px] h-[200px] w-[200px]  sm:h-[350px] sm:w-[400px] md:mt-[50px]  mt-[200px]  ' />
       <div className='md:text-3xl text-xl font-bold flex flex-col text-white text-center mt-4 sm:mt-0'>
       <p>Mission To 1 Billion</p>
        <p>Market Cap</p>
