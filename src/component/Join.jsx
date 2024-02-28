@@ -2,8 +2,8 @@ import React from 'react'
 
 function Join() {
   return (
-    <div className='md:h-[40vh] h-[25vh] bg-zinc-500 flex justify-center items-center flex-col md:flex-row md:justify-evenly'>
-        <div className='font-bold md:text-6xl text-2xl text-white align-middle flex flex-col text-center  lg:text-9xl lg:flex-col'>
+    <div className='md:h-[40vh] h-[25vh] lg:h-[50vh] bg-zinc-500 flex justify-center items-center flex-col md:flex-row md:justify-evenly'>
+        <div className='font-bold md:text-6xl text-2xl text-white align-middle flex flex-col text-center  lg:text-7xl lg:flex-col'>
             <span>Join The</span>
             <span>Family</span>
         </div>
