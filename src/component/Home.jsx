@@ -2,8 +2,8 @@ import React from 'react'
 import img from '../assets/9.dfffbb66f86faeacf924.png'
 function Home() {
   return (
-    <div className='bg-zinc-800'>
-       <div className='flex justify-center items-center h-screen flex-col'>
+    <div className='bg-zinc-800 h-screen'>
+       <div className='flex justify-center items-center  flex-col'>
        <img src={img} alt="" className='h-[500px]' />
       <div className='text-3xl font-bold flex flex-col text-white text-center'>
       <p>Mission To 1 Billion</p>
